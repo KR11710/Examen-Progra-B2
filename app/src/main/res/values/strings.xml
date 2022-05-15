@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">001</string>
+    <string name="TVN">NombreInput</string>
+    <string name="ETN">NombreOutput</string>
+    <string name="ETA">ApellidoInput</string>
+    <string name="TVA">ApellidoOutput</string>
+    <string name="ETS">SalarioInput</string>
+    <string name="TVS">SalarioOutput</string>
+    <string name="TVIGSS">IGSS</string>
+    <string name="TVINTECAP">INTECAP</string>
+    <string name="TVIRTRA">IRTRA</string>
+    <string name="TVISR">ISR</string>
+    <string name="TVTOTAL">TOTAL</string>
+    <string name="TVBONIFICACIONES">BONIFICACIONES</string>
+</resources>
